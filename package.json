@@ -2,6 +2,7 @@
   "name": "task_one",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://hendrisnts98.github.io/GO2COD_WD_01/public",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
